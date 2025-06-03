@@ -1,0 +1,20 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "this is a backend for practice purpose only",
+  "keywords": [
+    "backend",
+    "practice"
+  ],
+  "license": "ISC",
+  "author": "Ankan Maity",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
